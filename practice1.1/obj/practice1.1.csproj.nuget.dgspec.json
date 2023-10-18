@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ojt\\source\\repos\\practice1.1\\practice1.1\\practice1.1.csproj": {}
+    "C:\\Users\\ojt\\Desktop\\new\\practice1\\practice1.1\\practice1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ojt\\source\\repos\\practice1.1\\practice1.1\\practice1.1.csproj": {
+    "C:\\Users\\ojt\\Desktop\\new\\practice1\\practice1.1\\practice1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ojt\\source\\repos\\practice1.1\\practice1.1\\practice1.1.csproj",
+        "projectUniqueName": "C:\\Users\\ojt\\Desktop\\new\\practice1\\practice1.1\\practice1.1.csproj",
         "projectName": "practice1.1",
-        "projectPath": "C:\\Users\\ojt\\source\\repos\\practice1.1\\practice1.1\\practice1.1.csproj",
+        "projectPath": "C:\\Users\\ojt\\Desktop\\new\\practice1\\practice1.1\\practice1.1.csproj",
         "packagesPath": "C:\\Users\\ojt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ojt\\source\\repos\\practice1.1\\practice1.1\\obj\\",
+        "outputPath": "C:\\Users\\ojt\\Desktop\\new\\practice1\\practice1.1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ojt\\AppData\\Roaming\\NuGet\\NuGet.Config",
